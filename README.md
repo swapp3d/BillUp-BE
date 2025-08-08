@@ -19,3 +19,7 @@ BillUp is a full-stack web application that empowers users to manage utility bil
 - JPA/Hibernate
 
 ---
+
+## Notes
+
+The project is in work-in-progress state, and requires upgrades. All the core files are stored in **master** branch. 
